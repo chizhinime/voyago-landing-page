@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Mplus+1p:wght@400;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-open-sans: "Open Sans";
+  --font-mplus-1p: "Mplus 1p";
+  --font-space-grotesk: "Space Grotesk";
+  --font-m-plus-1: "M PLUS 1";
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-mid-7: 17.7px;
+  --font-size-16xl-4: 35.4px;
+  --font-size-7xl-6: 26.6px;
+  --font-size-13xl: 32px;
+  --font-size-base: 16px;
+  --font-size-mini-4: 14.4px;
+  --font-size-sm: 14px;
+  --font-size-lg: 18px;
+  --font-size-17xl: 36px;
+  --font-size-xl: 20px;
+  --font-size-sm-3: 13.3px;
+
+  /* Colors */
+  --white-primary: #fff;
+  --color-gray1-100: #2b2a3b;
+  --color-royalblue: #2659c3;
+  --gray: #808080;
+  --black: #141414;
+  --black-75: rgba(0, 0, 0, 0.5);
+  --color-whitesmoke: #f2f4f6;
+  --color-black1: #000;
+
+  /* Gaps */
+  --gap-7xl-6: 26.6px;
+  --gap-16xl-4: 35.4px;
+  --gap-4xs-9: 8.9px;
+  --gap-base-6: 16.6px;
+  --gap-mid-7: 17.7px;
+  --gap-8xs-4: 4.4px;
+
+  /* Paddings */
+  --padding-7xl-6: 26.6px;
+  --padding-4xs-9: 8.9px;
+  --padding-mid-7: 17.7px;
+  --padding-sm-3: 13.3px;
+  --padding-16xl-4: 35.4px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-mid-7: 17.7px;
+  --br-16xl-4: 35.4px;
+  --br-mid-1: 17.1px;
+  --br-8xs: 5px;
+  --br-4xl-2: 23.2px;
+}
